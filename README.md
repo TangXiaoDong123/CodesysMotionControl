@@ -5,3 +5,4 @@ CodesysMotionControlManul.rar：Codesys常用手册
 PLCopen.rar：PLCopen标准
 Siemens200SmartPointer.smart：西门子200Smart 指针用法
 CiA Draft Standard Proposal 402.pdf：CIA402基于Canopen为基础的运动轴通讯标准
+S7-cpp-for-Snap7-master.rar:西门子S7协议上位机通讯Demo
