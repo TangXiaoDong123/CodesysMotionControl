@@ -15,3 +15,4 @@ SiemensTiaPassWord .rar:Simens Tia PLC PassWord
 WeiNvivePassWord.rar：WeiNvive Touch PassWord
 DecryptionCalculation.exe:Pass Word Calculation
 SchneiderPassWordZhangfuPLC.rar:Schneider Password official
+SchneiderPassWordTangXiaoDongTouch.rar:Schneider Touch Password personal 
