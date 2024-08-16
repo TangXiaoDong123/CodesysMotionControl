@@ -1,5 +1,5 @@
-(CoreInjectionMachine27+CoreInjectionMachine27.vdz)：Codesys平台繁易FL6 PLC 施耐德 触摸屏 繁易伺服 27轴面向对象的思想 
-Siemens200SmartDemo.smart:西门子200Smart 工程Demo和常用库文件
+(CoreInjectionMachine27+CoreInjectionMachine27.vdz)：Codesys FStudio FL6 PLC +Schneider Touch+ FStudio (Motion 27 Axis, Object-Oriented Approach (OOA))
+Siemens200SmartDemo.smart:Siemens 200Smart Project Demo and lib 
 ModbusTool.rar：Easy to use serial tool
 CodesysMotionControlManul.rar：Codesys Manual
 PLCopen.rar：PLCopen Stand
