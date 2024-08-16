@@ -4,3 +4,4 @@ ModbusTool.rar：比较好用的串口调试工具
 CodesysMotionControlManul.rar：Codesys常用手册
 PLCopen.rar：PLCopen标准
 Siemens200SmartPointer.smart：西门子200Smart 指针用法
+CiA Draft Standard Proposal 402.pdf：CIA402基于Canopen为基础的运动轴通讯标准
