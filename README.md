@@ -9,6 +9,7 @@ S7-cpp-for-Snap7-master.rar:Siemnes S7 Communicational Demo
 SiemensTIADemo.rar:Siemens Tia Project Demo
 FStudioTouchPassWord.rar:FStudio Touch PassWord
 McgsPassWord.rar：Mcgs Touch PassWord
-SchneiderMachineExpertPassWord.rar：Schneider Machine Expert PassWord
-Siemens200SmartPassWord.rar：Simens 200Smart PassWord
-SiemensTiaPassWord .rar:Simens Tia PassWord
+SchneiderMachineExpertPassWord.rar：Schneider Machine Expert PLC PassWord
+Siemens200SmartPassWord.rar：Simens 200Smart PLC PassWord
+SiemensTiaPassWord .rar:Simens Tia PLC PassWord
+WeiNvivePassWord.rar：WeiNvive Touch PassWord
