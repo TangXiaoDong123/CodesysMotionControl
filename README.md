@@ -8,3 +8,4 @@ CiA Draft Standard Proposal 402.pdf：CIA402基于Canopen为基础的运动轴�
 S7-cpp-for-Snap7-master.rar:西门子S7协议上位机通讯Demo
 SiemensTIADemo.rar:西门子博图工程Demo
 FStudioTouchPassWord.rar:繁易触摸屏密码程序
+McgsPassWord.rar：昆仑通态密码程序
