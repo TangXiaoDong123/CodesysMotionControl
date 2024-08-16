@@ -2,3 +2,4 @@
 Siemens200SmartDemo.smart:西门子200Smart 工程Demo和常用库文件
 ModbusTool.rar：比较好用的串口调试工具
 CodesysMotionControlManul.rar：Codesys常用手册
+PLCopen.rar：PLCopen标准
